@@ -3,6 +3,8 @@
 
 **PeluditosEnConexión** is a comprehensive platform designed to transform the way animal lovers interact with their pets and the broader animal welfare community. Our mission is to provide tools and resources that facilitate the care and connection of pets with their loving owners.
 
+
+
 ## Features
 
 - **Lost Pet Search**: Utilize advanced tools to quickly locate missing pets and reunite them with their families.
