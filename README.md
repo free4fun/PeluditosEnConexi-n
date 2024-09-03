@@ -43,6 +43,7 @@ We welcome contributions from the community! To contribute:
 ## License
 
 This project is licensed under the GNU Affero General Public License (AGPL). For more details, see the [LICENSE](LICENSE) file.
+
 ![image](https://github.com/user-attachments/assets/f5d32075-8253-4062-a14b-9ebeb9a744e0)
 
 
