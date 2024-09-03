@@ -3,6 +3,12 @@
 
 **PeluditosEnConexión** es una plataforma integral diseñada para transformar la forma en que los amantes de los animales interactúan con sus mascotas y la comunidad de bienestar animal. Nuestra misión es proporcionar herramientas y recursos que faciliten el cuidado y la conexión de las mascotas con sus dueños amorosos.
 
+<p align="center">
+  <img width="300" height="300" src="/images/icon.png">
+</p>
+
+---
+
 ## Características
 
 - **Búsqueda de Mascotas Perdidas**: Utiliza herramientas avanzadas para localizar rápidamente mascotas desaparecidas y reunirlas con sus familias.
