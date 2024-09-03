@@ -1,5 +1,6 @@
 # PeluditosEnConexión
 [ENGLISH VERSION](README.md)
+
 **PeluditosEnConexión** es una plataforma integral diseñada para transformar la forma en que los amantes de los animales interactúan con sus mascotas y la comunidad de bienestar animal. Nuestra misión es proporcionar herramientas y recursos que faciliten el cuidado y la conexión de las mascotas con sus dueños amorosos.
 
 ## Características
